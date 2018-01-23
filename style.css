@@ -12,6 +12,9 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.6;
 }
+a {
+  color: #0074D9;
+}
 a.btn {
   background-color: #2ecc40;
   color: #fff;
