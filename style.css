@@ -12,6 +12,16 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.6;
 }
+a.btn {
+  background-color: #2ecc40;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  position: fixed;
+  top: 82px;
+  right: 100px;
+}
 .container {
   padding: 0 1em;
   display: grid;
