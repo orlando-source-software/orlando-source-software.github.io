@@ -1,0 +1,41 @@
+html {
+  background-color: #ddd;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+body {
+  max-width: 1170px;
+  margin: 0 auto;
+  background-color: #fff;
+  color: #666;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
+}
+.container {
+  padding: 0 1em;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 10px;
+}
+h1 {
+  margin-top: 0;
+  padding-top: 0.67em;
+}
+h1, h2 {
+  text-align: center;
+}
+h1, h2, h3 {
+  color: #39cccc;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  margin-bottom: 0.5em;
+}
+li strong {
+  font-style: italic;
+  text-transform: capitalize;
+}
